@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dogukanercann
 - 👀 I’m interested in Unity game development
 - 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dogukanercan34@gmail.com
 
 <!---
